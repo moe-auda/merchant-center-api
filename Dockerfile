@@ -33,5 +33,7 @@ USER app
 ENV PYTHONUNBUFFERED=1
 ENV PYTHONPATH=/app
 
-# Default command (can be overridden)
-CMD ["python", "books_scraping.py"]
+# No default command added - i think we canspecify which script/all scripts to run when starting the container
+# Example: docker run image_name python books_scraping.py
+# Example: docker run image_name python subscriptions_scraping.py
+# Example: docker run image_name python single_issue_scraping.py
