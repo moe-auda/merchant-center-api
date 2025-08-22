@@ -1,0 +1,5 @@
+[33m9915bcb[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m Remove default command from Dockerfile for flexibility
+[33mf8b709c[m Initial commit: Add scraping scripts, Docker configuration, and CSV data
+[33m43bcb8c[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Cleaned up the notebook
+[33m67f90da[m Cleaned up the notebook
+[33m1617129[m Merchant center API functionality to upload, update, delete products
